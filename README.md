@@ -1,5 +1,5 @@
-# React Typescript Vite TailwindCSS Template
+# React + Typescript + Vite + TailwindCSS + React Router Template
 
 ## About
 
-This template used React, Typescript, Vite, and TailwindCSS
+This template uses React, Typescript, Vite, TailwindCSS, and React Router
